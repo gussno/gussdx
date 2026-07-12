@@ -50,7 +50,7 @@ kHz:75;Time(UTC):93;Days:59;ITU:49;Station:201;Lng:49;Target:62;Remarks:135;P:35
 135.4;0000-2400;;HNG;EFR Teleswitch;;CEu;lh;1;;[1123]
 138.8;0000-2400;;D;EFR Teleswitch;;CEu;bu;1;;[1123]
 147.3;0000-2400;;D;DWD 2 Pinneberg RTTY;E;Eu;pi;1;;[0326]
-531;0450-1330;;ALG;R.Algiers Int.;A,F;NAf;fk;1;;
+531;0450-1330;;ALG;R.Algiers Int.;A-F;NAf;fk;1;;
 531;1330-1400;;ALG;R.Algiers Int.;E;NAf;fk;1;;
 531;1400-1430;;ALG;R.Algiers Int.;S;NAf;fk;1;;
 531;1430-1600;;ALG;R.Algiers Int.;A;NAf;fk;1;;
